@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.todo;
+package com.sowmik.rest.webservices.restfulwebservices.todo;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
